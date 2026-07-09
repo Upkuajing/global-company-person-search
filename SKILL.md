@@ -1,7 +1,7 @@
 ---
 name: global-company-person-search
 description: Official skill for upkuajing (跨境魔方). Search people (找人) from the global company database (全球企业库). Find people by name, company, industry, and profile URL. Ideal for talent search and lead development on the global company database.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"👤","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"👤","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Global Company Person Search
